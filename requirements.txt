@@ -1,6 +1,7 @@
-logging
-telethon
-csv
-os
-json
-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+skit-learn
+datetime 
